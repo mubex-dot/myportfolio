@@ -303,7 +303,7 @@ section {
     height: 18em;
     margin-bottom: 1em;
   }
-  .travel:focus,
+  /* .travel:focus,
   .travel:hover,
   .basketball:focus,
   .basketball:hover,
@@ -313,7 +313,7 @@ section {
   .unit:hover {
     width: 25.1em;
     height: 18.1em;
-  }
+  } */
 }
 
 @media (max-width: 1300px) {
