@@ -1,14 +1,14 @@
-html {
+/* html {
   font-size: 16px;
 }
 
 * {
   margin: 0;
-}
+} */
 
 /* ===================================TYPOGRAPHY=================================== */
 
-body {
+/* body {
   background-color: #303030;
   color: #16e0bd;
   font-family: "Nunito", sans-serif;
@@ -44,11 +44,11 @@ strong {
 section {
   width: 100%;
   background-color: #ffffffe5;
-}
+} */
 
 /* ===================================CLASSES=================================== */
 
-.body {
+/* .body {
   margin: auto;
 }
 
@@ -86,7 +86,6 @@ section {
 }
 
 .home-title {
-  /* border: 1px solid rebeccapurple; */
   width: 57%;
   text-align: right;
   margin-bottom: 1em;
@@ -303,7 +302,7 @@ section {
     height: 18em;
     margin-bottom: 1em;
   }
-  /* .travel:focus,
+  .travel:focus,
   .travel:hover,
   .basketball:focus,
   .basketball:hover,
@@ -313,7 +312,7 @@ section {
   .unit:hover {
     width: 25.1em;
     height: 18.1em;
-  } */
+  }
 }
 
 @media (max-width: 1300px) {
@@ -346,7 +345,7 @@ section {
     border-radius: 10px;
   }
   .home-title {
-    /* border: 1px solid rebeccapurple; */
+
     width: 78%;
     text-align: right;
     margin-bottom: 1em;
@@ -361,7 +360,7 @@ section {
     border-radius: 10px;
   }
   .home-title {
-    /* border: 1px solid rebeccapurple; */
+
     width: 70%;
     text-align: right;
     margin-bottom: 1em;
@@ -376,7 +375,7 @@ section {
     border-radius: 10px;
   }
   .home-title {
-    /* border: 1px solid rebeccapurple; */
+
     width: 60%;
     text-align: right;
     margin-bottom: 1em;
@@ -391,7 +390,7 @@ section {
     border-radius: 10px;
   }
   .home-title {
-    /* border: 1px solid rebeccapurple; */
+
     width: 57%;
     text-align: right;
     margin-bottom: 1em;
@@ -406,7 +405,7 @@ section {
     border-radius: 10px;
   }
   .home-title {
-    /* border: 1px solid rebeccapurple; */
+
     width: 55%;
     text-align: right;
     margin-bottom: 1em;
@@ -421,9 +420,9 @@ section {
     border-radius: 10px;
   }
   .home-title {
-    /* border: 1px solid rebeccapurple; */
+
     width: 50%;
     text-align: right;
     margin-bottom: 1em;
   }
-}
+} */
