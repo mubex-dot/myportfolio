@@ -23,6 +23,16 @@ function Header() {
               My work
             </a>
           </li>
+          <li className="nav-item">
+            <a
+              href="https://mubex-dot.github.io/hng1/"
+              target="_blank"
+              rel="noreferrer"
+              className="nav-link"
+            >
+              My links
+            </a>
+          </li>
         </ul>
       </nav>
     </header>

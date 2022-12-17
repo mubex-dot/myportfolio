@@ -13,6 +13,7 @@ body {
   color: #16e0bd;
   font-family: "Nunito", sans-serif;
   scroll-behavior: smooth;
+  overflow-x: hidden;
 }
 
 header {
@@ -50,6 +51,7 @@ section {
 
 .body {
   margin: auto;
+  max-width: 1500px;
 }
 
 .logo img {
@@ -83,6 +85,7 @@ section {
   width: 80%;
   margin: auto;
   background-color: #303030;
+  max-width: 1500px;
 }
 
 .home-title {
@@ -95,6 +98,8 @@ section {
 .home-title,
 .home-subtitle {
   font-size: 1.7rem;
+  max-width: 1500px;
+  position: relative;
 }
 
 .home-subtitle {
@@ -109,10 +114,11 @@ section {
 }
 
 .intro img {
-  position: absolute;
+  position: fixed;
   top: 200px;
   left: 450px;
   border-radius: 10px;
+  max-width: 1500px;
 }
 
 .about h2 {
@@ -238,6 +244,10 @@ section {
 .foot img:hover,
 .foot img:focus {
   height: 2.1em;
+}
+
+.intro {
+  max-width: 1500px;
 }
 
 @media (max-width: 1300px) {
