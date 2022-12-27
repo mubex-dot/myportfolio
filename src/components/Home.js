@@ -7,7 +7,7 @@ function Home() {
         Hi, my name is <strong>Mubarak Ibrahim</strong>
       </h1>
       <p className="subtitle home-subtitle">Frontend Developer</p>
-      <img src={Mubarak} alt="Mubarak"></img>
+      <img className="my-pic" src={Mubarak} alt="Mubarak"></img>
     </section>
   );
 }
