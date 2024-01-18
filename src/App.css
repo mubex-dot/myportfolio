@@ -12,9 +12,10 @@ body {
   background-color: #303030;
   color: #16e0bd;
   font-family: "Nunito", sans-serif;
+  overflow-x: hidden;
 }
 
-header {
+.header {
   display: flex;
   width: 100%;
   justify-content: space-around;
@@ -65,6 +66,8 @@ button {
 
 .my-pic {
   transition: 1s;
+  width: 15em;
+  margin-left: 2em;
 }
 
 .my-pic:hover {
@@ -92,11 +95,17 @@ button {
 }
 
 .nav-list {
-  width: fit-content;
+  width: 100%;
+  margin-right: 4em;
+}
+
+.nav-list ul {
+  /* width: fit-content; */
   display: flex;
-  flex-direction: column;
+  /* flex-direction: column; */
+  justify-content: space-between;
   align-items: flex-end;
-  display: none;
+  width: 100%;
 }
 
 .nav-list img {

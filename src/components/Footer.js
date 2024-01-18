@@ -6,16 +6,16 @@ import gmail from "../images/gmail-logo.svg";
 function Footer() {
   return (
     <div className="foot">
-      <a href="https://github.com/mubex-dot">
+      <a href="https://github.com/Mustyaks">
         <img src={github} alt=""></img>
       </a>
-      <a href="https://twitter.com/m_u_b_e_x_">
+      <a href="https://x.com/mustyryback?t=ZugbIUhqc7qbFS9dPjcdyg&s=09">
         <img src={twitter} alt=""></img>
       </a>
-      <a href="https://wa.me/qr/GT66T5TVSCXGO1">
+      <a href="https://wa.me/qr/H6MDB6AAHT7XM1">
         <img src={whatsapp} alt=""></img>
       </a>
-      <a href="mailto:mubee2004@gmail.com">
+      <a href="mailto:yakubumustapha366@gmail.com">
         <img src={gmail} alt=""></img>
       </a>
     </div>

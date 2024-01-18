@@ -1,21 +1,13 @@
 import hello from "../images/hello-logo.png";
-import openMenu from "../images/open-menu.png";
-import closeMenu from "../images/close-menu.png";
 
 function Header() {
   return (
-    <header>
+    <div className="header">
       <div className="logo">
         <img src={hello} alt="hello"></img>
       </div>
       <nav className="nav">
-        <button>
-          <img className="open" src={openMenu} alt=""></img>
-        </button>
         <div className="nav-list">
-          <buton>
-            <img className="close" src={closeMenu} alt=""></img>
-          </buton>
           <ul>
             <li className="nav-item">
               <a href="#home" className="nav-link">
@@ -45,7 +37,7 @@ function Header() {
           </ul>
         </div>
       </nav>
-    </header>
+    </div>
   );
 }
 
