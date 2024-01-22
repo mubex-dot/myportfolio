@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/myportfolio/static/css/main.d68b14fe.css",
-    "main.js": "/myportfolio/static/js/main.9dffc443.js",
+    "main.css": "/myportfolio/static/css/main.8c499577.css",
+    "main.js": "/myportfolio/static/js/main.54e58b37.js",
     "static/js/787.1f11dfe9.chunk.js": "/myportfolio/static/js/787.1f11dfe9.chunk.js",
-    "static/media/Mubarak.PNG": "/myportfolio/static/media/Mubarak.479b718a6457f89b57ae.PNG",
     "static/media/travel-journal.PNG": "/myportfolio/static/media/travel-journal.84e8253c2196ff088c72.PNG",
+    "static/media/mustapha.jpg": "/myportfolio/static/media/mustapha.bf9c3950a8410afad1ca.jpg",
     "static/media/hello-logo.png": "/myportfolio/static/media/hello-logo.07853feeb29394a43ebe.png",
     "static/media/password-generator.PNG": "/myportfolio/static/media/password-generator.af90e843438c28a27e62.PNG",
     "static/media/scoreboard.PNG": "/myportfolio/static/media/scoreboard.80dde1c8d2e81ab289c5.PNG",
     "static/media/unit-converter.PNG": "/myportfolio/static/media/unit-converter.cd3bb95fa2f9a5d1fd38.PNG",
-    "static/media/github.svg": "/myportfolio/static/media/github.3c79316f42f0ab8ae9c2d6bab4305de1.svg",
-    "static/media/whatsapp.svg": "/myportfolio/static/media/whatsapp.f7fe1bdd119cde96cae079c87136b055.svg",
-    "static/media/twitter.svg": "/myportfolio/static/media/twitter.e58c8cb086ede449a1673db2fca020d6.svg",
-    "static/media/gmail-logo.svg": "/myportfolio/static/media/gmail-logo.dd0f6192b79aa025a58bcb74de476076.svg",
+    "static/media/github.svg": "/myportfolio/static/media/github.f195e20a9907c2764e7be44b07c1fc57.svg",
+    "static/media/whatsapp.svg": "/myportfolio/static/media/whatsapp.c256ce3c1fd93640a7c5f9d8c1bb375b.svg",
+    "static/media/twitter.svg": "/myportfolio/static/media/twitter.5f7467f595e44a202c599cc67f5c8a4e.svg",
+    "static/media/gmail-logo.svg": "/myportfolio/static/media/gmail-logo.96626319c6025418c0958bf809ff44b2.svg",
     "index.html": "/myportfolio/index.html",
-    "main.d68b14fe.css.map": "/myportfolio/static/css/main.d68b14fe.css.map",
-    "main.9dffc443.js.map": "/myportfolio/static/js/main.9dffc443.js.map",
+    "main.8c499577.css.map": "/myportfolio/static/css/main.8c499577.css.map",
+    "main.54e58b37.js.map": "/myportfolio/static/js/main.54e58b37.js.map",
     "787.1f11dfe9.chunk.js.map": "/myportfolio/static/js/787.1f11dfe9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d68b14fe.css",
-    "static/js/main.9dffc443.js"
+    "static/css/main.8c499577.css",
+    "static/js/main.54e58b37.js"
   ]
 }
